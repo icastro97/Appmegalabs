@@ -1,0 +1,2 @@
+[05-Nov-2019 13:31:39 UTC] PHP Warning:  require(database.php): failed to open stream: No such file or directory in /home/scandapp/public_html/proyecto/api/recibosCaja/documentos/1570652666session.php on line 8
+[05-Nov-2019 13:31:39 UTC] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/scandapp/public_html/proyecto/api/recibosCaja/documentos/1570652666session.php on line 8
