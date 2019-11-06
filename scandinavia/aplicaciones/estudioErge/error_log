@@ -1,0 +1,8 @@
+[16-Oct-2019 20:36:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 120
+[16-Oct-2019 20:36:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 121
+[16-Oct-2019 20:36:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 127
+[16-Oct-2019 20:36:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 136
+[05-Nov-2019 18:17:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 120
+[05-Nov-2019 18:17:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 121
+[05-Nov-2019 18:17:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 127
+[05-Nov-2019 18:17:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/scandapp/public_html/scandinavia/cabeza.php on line 136

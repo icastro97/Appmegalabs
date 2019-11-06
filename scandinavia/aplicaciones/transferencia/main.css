@@ -1,0 +1,33 @@
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #00AB84;
+    color: white;
+}
+.input
+{
+	background-color:#00965e;
+	color:white;
+}
+#cambio
+{
+    color:red;
+}
+
+#cambio::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: red;
+}
+#cambio:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: red;
+    opacity: 1;
+}
+#cambio::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: red;
+    opacity: 1;
+}
+#cambio:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: red;
+}

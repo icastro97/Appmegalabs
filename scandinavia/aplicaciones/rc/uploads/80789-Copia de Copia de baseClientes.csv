@@ -1,0 +1,433 @@
+id;NIT;cuentacliente;razonsocial;grupoventas;condicionpago;zona;region;vendedor;direccionEntrega;institucional
+;63280063-3;2485;Agudelo de Duarte Gloria Maritza;Albarracin Reyes Pedro Elias;;Bucaramanga;Bucaramanga;Albarracin Reyes Pedro Elias;Carrera 38 # 48 - 90;Normal  
+;14567263-5;2861;Agudelo Henao Juan Carlos;Perez Quiroga Edermay;;Cartago;Cartago;Perez Quiroga Edermay;Carrera 5 # 14 - 3;Normal  
+;890900608-9;1002;Almacenes Exito S.A.;Ruiz Herrera Juan Esteban;;Envigado;Envigado;Ruiz Herrera Juan Esteban;Calle 43 # 48 - 127 - Cedi Vegas;Normal  
+;890900608-9;1004;Almacenes Exito S.A.;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Km. 4 Via Funza/Pque.Ind.San Carlos;Normal  
+;890900608-9;2996;Almacenes Exito S.A.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Carrera 51B # 87 - 50;Normal  
+;890300346-1;1014;Almacenes La 14 S.A.;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Carrera 5 # 61A - 95;Normal  
+;830111080-7;2821;Alta Vision SAS;Garcia Ortega Yenny;;Bogota;Bogota;Garcia Ortega Yenny;Carrera 14 # 86A - 15;Normal  
+;901071709-5;2820;Alternativas Therapeuticas SAS;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Carrera 7 # 115 - 60 - Local 226;Normal  
+;19092544-8;2905;Alvaro Medina Rendon;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Calle 30 #5-54 - Sr. Enrique Murillo;Normal  
+;13487059-1;2504;Arguello Parra Jesus Maria;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Avenida 11-E No.5-AN - 216 Santa Lucia;Normal  
+;830126960-9;1890;Asisderma Ltda.;Penagos Clavijo Sandra Patricia;;Bogota;Bogota;Penagos Clavijo Sandra Patricia;Carrera 21 # 23 - 36 - Sur - Piso 3;Normal  
+;900149596-3;2688;Asisfarma S.A.;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Carrera 47 # 93 - 58;Licitada
+;800138319-1;1007;Asociación Colombiana de Enfermos de Cáncer;Castro Aragon Edith Yuliana;;Bogota;Bogota;Castro Aragon Edith Yuliana;Carrera 7 # 55 - 19;Licitada
+;820001181-4;2500;Asorsalud S.M. Ltda;Vergara Cipamocha  Ruth Alexandra;;Tunja;Tunja;Vergara Cipamocha  Ruth Alexandra;Avenida Norte # 47 - 18;Normal  
+;91150762-8;2833;Atuesta Becerra Gustavo;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Calle 12 # 8 - 12 - Barrio Centro;Normal  
+;816001182-7;1010;Audifarma S.A.;Avellaneda Pinzon Martha Lucia;;Todo el pais;Todo el pais;Avellaneda Pinzon Martha Lucia;Calle 105 # 14 - 140;Licitada
+;64701076-0;2798;Baiz Verbel Lauren Karina;Viaña Catalan Luz Helena;;Sincelejo;Sincelejo;Viaña Catalan Luz Helena;Calle 15 # 11A - 124 - Avenida San Carlos - Local 2 - Piso 1;Normal  
+;70100238-1;2397;Barreto Bohorquez Jorge Alfredo;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Calle 134 No. 7- B - 83  Casa # 405;Normal  
+;900647897-1;2683;Beautyderm SAS;Lizarazo Castillo Javier Mauricio;;Bogota;Bogota;Lizarazo Castillo Javier Mauricio;Avenida Carrera 20 # 82 - 31;Normal  
+;830137461-2;1936;Bella Piel S.A.S.;Ferreira Santos Alexandra;;Bogota;Bogota;Ferreira Santos Alexandra;Calle 114 # 6A - 92 - Centro Comercial Hacienda Santa Bárbara - Local D-209;Normal  
+;830137461-2;2757;Bella Piel S.A.S.;Rodriguez Cavallo Ronald Antonio;;Cartagena;Cartagena;Rodriguez Cavallo Ronald Antonio;Calle 31 # 69 - 75 - Local A126;Normal  
+;830137461-2;2760;Bella Piel S.A.S.;Guerrero Padilla Yenny;;Valledupar;Valledupar;Guerrero Padilla Yenny;Carrera 9 # 6 - 128 - Unicentro Valledupar - Local 210;Normal  
+;830137461-2;2942;Bella Piel S.A.S.;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Calle 38 N # 6 N - 45, Centro Comercial Chipichape - Local 207;Normal  
+;830137461-2;2943;Bella Piel S.A.S.;Toro Melguizo Sandra Patricia;;Medellin;Medellin;Toro Melguizo Sandra Patricia;Calle 6 Sur # 43 - 227 - Centro Comercial Oviedo - Local 1340;Normal  
+;900468300-9;2503;Belle Farma S.A.S;Villalobos Bermudez Nelly Marcela;;Bogota;Bogota;Villalobos Bermudez Nelly Marcela;Carrera 13 # 85 - 39 - Oficina 307;Normal  
+;900296318-1;2304;Bellepiel S.A.S;Garcia Ladron de Guevara Karime Paola;;Cartagena;Cartagena;Garcia Ladron de Guevara Karime Paola;Carrera 3 # 6 - 128 - Barrio Bocagrande;Normal  
+;901020041-6;2880;Benessere S.A.S;Fernandez Rodriguez Yasmin;;Neiva;Neiva;Fernandez Rodriguez Yasmin;Carrera 10A # 3A - 40;Normal  
+;901202556-9;2919;Benesserebel S.A.S;Fernandez Rodriguez Yasmin;;Neiva;Neiva;Fernandez Rodriguez Yasmin;Calle 8 # 48 - 145 - local N 3 - 60;Normal  
+;36998869-7;2834;Bravo Vallejo Cruz Edilma;Trullo Valencia Diana Ximena;;Ipiales;Ipiales;Trullo Valencia Diana Ximena;Carrera 6 # 17 - 10;Normal  
+;900138858-0;2179;Breccia Salud S.A.S.;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Calle 21 # 68D - 60 - Montevideo;Normal  
+;900138858-0;2729;Breccia Salud S.A.S.;Viaña Catalan Luz Helena;;Cartagena;Cartagena;Viaña Catalan Luz Helena;Carrera 13 # 31 -  45 - Avenida Pedro De Heredia - Chambacu - Mall Plaza El Castillo - Local 257 al 258;Normal  
+;900304820-3;2319;Cada Piel S.A.S.;Cardona Vasquez Tatiana;;Pereira;Pereira;Cardona Vasquez Tatiana;Carrera 4 # 22 - 23 - Local 6;Normal  
+;860007336-1;1021;Caja Colombiana de Subsidio Familiar Colsubsidio;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Avenida de Las Americas # 68A - 03;Normal  
+;860007336-1;1021-INS;Caja Colombiana de Subsidio Familiar Colsubsidio;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Avenida de Las Americas # 68A - 03;Licitada
+;860007336-1;2564-INS;Caja Colombiana de Subsidio Familiar Colsubsidio;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 46 # 31 - 22 - Barrio Colombia;Licitada
+;860007336-1;2974;Caja Colombiana de Subsidio Familiar Colsubsidio;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Kilometro 16 Vereda el Noral - Copacabana - Parque Industrial QBOX - Bodega 17 - 18;Normal  
+;860013570-3;1020;Caja De Comp. Fam. Cafam;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Avenida - Carrera 68 N° 90  -88 -Cafam Floresta -  Bloque 5 - Piso 3.;Normal  
+;860013570-3;1020-INS;Caja De Comp. Fam. Cafam;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Parque Industrial Celta Trade Parque Uno - Kilometro 7 Autopista Medellín - Costado Occidental - Vereda La Isla - Bodega 131-16;Licitada
+;860013570-3;2146;Caja De Comp. Fam. Cafam;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Parque Industrial Celta Trade Parque Uno - Kilometro 7.5 Autopista Medellín - Costado Occidental - Vereda la Isla - Bodega 131-16;Normal  
+;860013570-3;2771;Caja De Comp. Fam. Cafam;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Kilometro 7 - Autopista Medellin - Costado Occidental - Vereda la Isla - Bodega 131 - 16;Normal  
+;890303208-5;1044;Caja De Comp. Fam. Comfandi;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Carrera 24 # 27 - 09;Normal  
+;890303208-5;1044-INS;Caja De Comp. Fam. Comfandi;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Carrera 24 # 27 - 09;Licitada
+;890000381-0;1022;Caja de Comp. Fam. Comfenalco;Perez Quiroga Edermay;;Armenia;Armenia;Perez Quiroga Edermay;Carrera 16 # 24 - 16;Normal  
+;890000381-0;1022-INS;Caja de Comp. Fam. Comfenalco;Perez Quiroga Edermay;;Armenia;Armenia;Perez Quiroga Edermay;Carrera 16 # 24-16;Licitada
+;860066942-7;1026;Caja De Comp. Fam. Compensar;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Avenida 68 # 49A - 47;Licitada
+;891280008-1;1034;Caja De Comp. Fam. De Narino;Giandomenico de Vries Juan Carlos;;Pasto;Pasto;Giandomenico de Vries Juan Carlos;Calle 16B # 30 - 53;Normal  
+;891180008-2;1042;Caja De Comp. Fam. Del Huila - Comfamiliar;Rodriguez  Gonzalez Viviana Marcela;;Neiva;Neiva;Rodriguez  Gonzalez Viviana Marcela;Carrera 5 # 10 - 80 - Drogueria Confamiliar Neiva Centro;Licitada
+;91200456-4;2410;Calderon Ribero Carlos Alberto;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Carrera 33 # 46 - 47;Normal  
+;17348160-7;2848;Cano Parrado Rodni Danilo;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Calle 9A # 11N - 39 - Barrio Centro;Licitada
+;860069804-2;2915;Carbones del Cerrejon Limited.;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Calle 100 # 19 - 54 - Edificio Prime Tower - Piso 12;Licitada
+;13489998-1;2534;Carrillo Laguado Julio Alirio;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Calle 54 # 23 - 03;Normal  
+;7703464-7;2022;Castillo Diaz Alvaro;Fernandez Rodriguez Yasmin;;Neiva;Neiva;Fernandez Rodriguez Yasmin;Calle 12 # 5 - 92;Normal  
+;5414589-1;2825;Castro Rodríguez Luis Alberto;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Carrera 7 # 13 - Barrio El Humilladero;Normal  
+;802010614-4;2507;Centro Cancerologico del Caribe Limitada;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 55 # 84 - 94;Licitada
+;900096797-8;2235;Centro de Dermatologia Cirugia Der del;Neira Moreno Angela Cristina;;Bogota;Bogota;Neira Moreno Angela Cristina;Carrera 16 # 82 - 29 -Edificio Centro Profesional del Country -  Constancia 104;Normal  
+;891200638-1;2723;Centro de Habilitacion Del Niño Cehani E.S.E;Garcia Guzman Sandra Lorena;;Pasto;Pasto;Garcia Guzman Sandra Lorena;Calle 18 Nº45-49 Barrio pandiaco;Licitada
+;830099212-1;2398;Centro de Investigaciones Oncol. Clinica San Diego  S.A.;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Calle 33 # 14 - 37;Licitada
+;900437964-6;2869;Centro de Radiologia Elisa Clara R.F. S.A.S;Insignares Jaime Marta Ligia;;Valledupar;Valledupar;Insignares Jaime Marta Ligia;Carrera 15 # 14 - 36 - Barrio Alfonzo Lopez - Piso 2;Licitada
+;816006442-1;2069;Centro Dermatológico Laser Piel y Belleza S.A.S.;Cardona Vasquez Tatiana;;Pereira;Pereira;Cardona Vasquez Tatiana;"Carrera 18 # 12 - 75 - 
+Megacentro Pinares - Torre1 - Piso 12";Normal  
+;900259508-7;2829;Centro Diabetologico de Monteria Ltda;Viaña Catalan Luz Helena;;Monteria;Monteria;Viaña Catalan Luz Helena;Calle 41C # 31 - 4 - Urbanizacion San Antonio - Terminal de Transporte - Local 3;Licitada
+;900259508-7;2829;Centro Diabetologico de Monteria Ltda;Viaña Catalan Luz Helena;;Monteria;Monteria;Viaña Catalan Luz Helena;Calle 41C # 31 - 4 - Urbanizacion San Antonio - Terminal de Transporte - Local 3;Normal  
+;800214735-6;2107;Centro Integral de Medicina Especializada S.A.S.Cime S.A.S. Prov.;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Calle 86 # 49C - 64;Normal  
+;802019289-4;2313;Centro Médico Excelsior S.A.S.;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 51B # 82 - 197;Licitada
+;900401940-4;2431;Centro Medico Oftalmologico Bajaire IPS Sociedad Por Acciones Simplificadas;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Calle 116 No. 9 - 72 Consultorio # 201;Normal  
+;806007650-3;2424;Centro Radio Oncologico del Caribe SAS;Insignares Jaime Marta Ligia;;Cartagena;Cartagena;Insignares Jaime Marta Ligia;Avenida Pedro de Heredia  - Calle 31 - Carrera 48 Esquina;Licitada
+;824005694-3;2348;Centro Regional De Oncologia S.A.S;Insignares Jaime Marta Ligia;;Valledupar;Valledupar;Insignares Jaime Marta Ligia;Calle 16B #12-24 Sector Loperena;Licitada
+;901131639-6;2892;Century Farma SAS;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Avenida Carrera 45 # 104a - 87;Licitada
+;900144924-3;2165;Ciruderma S.A.S.;Nivia Ubaque Maria de los Angeles;;Bogota;Bogota;Nivia Ubaque Maria de los Angeles;Calle 150 # 16 - 56 - Local 1 - 99;Normal  
+;42102224;2200;Claudia Constanza Clavijo Leon;Cardona Vasquez Tatiana;;Pereira;Pereira;Cardona Vasquez Tatiana;Avenida 30 de Agosto # 75 - 51 - Centro Comercial Unicentro -  Local 6;Normal  
+;900217343-9;2353;Clinica  Oftalmologica de Sucre Ltda;Rodriguez Cavallo Ronald Antonio;;Sincelejo;Sincelejo;Rodriguez Cavallo Ronald Antonio;Calle 14 # 20 - 53;Normal  
+;814004714-1;1812;Clinica Bellatriz S.A.S.;Giandomenico de Vries Juan Carlos;;Pasto;Pasto;Giandomenico de Vries Juan Carlos;Carrera 42 # 18A - 56;Normal  
+;807002424-6;2907;Clínica de Cancerología del Norte de Santander Ltda.;Morales Ospina Diana Carolina;;Cucuta;Cucuta;Morales Ospina Diana Carolina;Avenida 2 # 17 - 94 Barrio La Playa;Licitada
+;860002541-2;2097;Clinica de Marly S.A.;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Calle 50 # 9 - 67;Licitada
+;890937309-1;2337;Clinica de Ojos Sociedad Medica Bolivariana S.A.S;Fontalvo Cantillo Greicy Magrett;;Valledupar;Valledupar;Fontalvo Cantillo Greicy Magrett;"Carrera 15 # 14 - 45 - 
+Barrio Alfonso Lopez";Normal  
+;900718172-6;2811;Clinica Internacional de Alta Tecnología Clinaltec SAS;Rodriguez  Gonzalez Viviana Marcela;;Ibague;Ibague;Rodriguez  Gonzalez Viviana Marcela;Kilometro 6 - Vía Ibagué Espinal - Sec Picaleña HD Monteredondo - Local 3A;Licitada
+;890102140-0;2904;Clínica La Asunción;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Calle 70B # 41 -93;Licitada
+;900115061-9;2864;Clinica Santa Barbara del Valle de Tenza S.A.;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Calle 13 # 9 - 55;Normal  
+;900816838-2;2770;CMX S.A.S.;Toro Melguizo Sandra Patricia;;Medellin;Medellin;Toro Melguizo Sandra Patricia;Calle 19A # 44 - 25 - Torre Salud y Servicios - Local 165 - Ciudad del Rio;Normal  
+;900423956-6;2624;Colombian Power Line SAS;Neira Moreno Angela Cristina;;Bogota;Bogota;Neira Moreno Angela Cristina;Calle 16 # 12 - 55;Normal  
+;830120157-3;2923;Colombiana de Trasplantes SAS;Castro Aragon Edith Yuliana;;Bogota;Bogota;Castro Aragon Edith Yuliana;Avenida Carrera 30 N° 47a - 74;Licitada
+;804012730-7;2857;Colpromed S.A.S;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Parque Industrial I ET - Local 24;Licitada
+;804012730-7;2894;Colpromed S.A.S;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 52 # 74-73  OF 1;Licitada
+;900640136-3;2795;Comercializadora de Medicamentos Bacata S.A.S.;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Carrera 74B # 52A - 5 - Barrio Normadía Segungo Sector;Licitada
+;900273686-8;2274;Comercializadora Mercaldas S.A.;Perez Quiroga Edermay;;Manizales;Manizales;Perez Quiroga Edermay;Carrera 22 # 17 - 11;Normal  
+;823000097-1;1072;Comercializadora Multidrogas de Colombia S.A.S.;Viaña Catalan Luz Helena;;Monteria;Monteria;Viaña Catalan Luz Helena;Calle 29  # 8 - 69;Normal  
+;823000097-1;2461;Comercializadora Multidrogas de Colombia S.A.S.;Viaña Catalan Luz Helena;;Cartagena;Cartagena;Viaña Catalan Luz Helena;El Bosque Diagonal 21 # 53 - 35 - Avenida Principal;Normal  
+;802017331-7;1932;Coodrogas Habib;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Carrera 49C # 79 - 225;Normal  
+;812001561-0;1854;Cooperativa de Entidades de Salud de Cordoba;Vasquez Robledo Silvia Esperanza;;Monteria;Monteria;Vasquez Robledo Silvia Esperanza;Calle 28A # 23 - 03 - Barrio San José;Licitada
+;890985122-6;1720;Cooperativa de Hospitales de A;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 48 # 24 - 104 - Avenida Industriales;Licitada
+;804009200-4;1068;Cooperativa de Hospitales de Santander y el Nororiente Colombiano;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Centro Empresarial San Jorge - Kilometro 7 Via Girón - Florida Blanca Anillo Vial - Bodega 65 - Girón;Licitada
+;900062612-8;2651;Cooperativa Emssanar Servicio Farmaceutico;Garcia Guzman Sandra Lorena;;Pasto;Pasto;Garcia Guzman Sandra Lorena;Calle 11A - Carrera 33 - Esquina;Licitada
+;900067659-6;2193;Cooperativa Epsifarma;Cañon Jimenez Martha Angelica;;Bogota;Bogota;Cañon Jimenez Martha Angelica;Autopista Medellín Kilomtero 9.6 Costado Sur;Licitada
+;860026123-0;1085;Coopidrogas;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Metroparque Circunvalar - Bodega 23 - 24;Normal  
+;860026123-0;1086;Coopidrogas;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Calle 86  # 14 - 33/37 La Villa Olimpica;Normal  
+;860026123-0;1087;Coopidrogas;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Autopista Medellín Vía Siberia 200 metros antes de la Glorieta de Cota;Normal  
+;860026123-0;1919;Coopidrogas;Ruiz Herrera Juan Esteban;;Bello;Bello;Ruiz Herrera Juan Esteban;Diagonal 52N # 10 - 200 Autopista Norte (De Copacabana a Medellín) antes de Jardines de la Fe;Normal  
+;860026123-0;2044;Coopidrogas;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Calle 15 Autopista Cali Yumbo Kilometro 4 Zona Industrial Arroyo Hondo;Normal  
+;860026123-0;2403;Coopidrogas;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Calle 60 # 15 - 25 - Bodega Sector La Esmeralda;Normal  
+;830011670-3;1088;Copservir  Ltda.;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Carrera 16 # 47 - 82 - Frente al Exito;Normal  
+;830011670-3;1089;Copservir  Ltda.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Calle 110 # 6R - 400 Vía Circunvalar - Barrio San Pedro Alejandrino;Normal  
+;830011670-3;1090;Copservir  Ltda.;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Calle 18 # 121 - 130 Cañas Gordas;Normal  
+;830011670-3;1091;Copservir  Ltda.;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Calle 13 # 39 - 10;Normal  
+;1062810624-8;2499;Cordoba Fuentes Alvaro Luis;Rodriguez  Castillo Greys Vanessa;;Valledupar;Valledupar;Rodriguez  Castillo Greys Vanessa;Carrera 15 # 14 - 08;Normal  
+;900210981-6;2788;Corporación Hospitalaria Juan Ciudad;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Calle 66A # 52 - 25;Licitada
+;7531310-2;2838;Correa Jaramillo German;Rodriguez  Gonzalez Viviana Marcela;;Armenia;Armenia;Rodriguez  Gonzalez Viviana Marcela;Carrera 15 # 5N - 69;Normal  
+;830023202-1;1492;Cosmitet Ltda;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Calle 9A # 42 - 115;Licitada
+;830023202-1;2061;Cosmitet Ltda;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Calle 64G # 92 - 72 - Barrio Alamos;Licitada
+;830023202-1;2062;Cosmitet Ltda;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 47 # 84 - 79;Licitada
+;830023202-1;2170;Cosmitet Ltda;Torres Tobon Beatriz Elena;;Envigado;Envigado;Torres Tobon Beatriz Elena;Carrera 43A # 48C - 45 - Sur - Clínica de la Policía;Licitada
+;892099160-2;1095;Cruz Roja Colombiana Seccional Meta;Parra Rodriguez Ernesto Mauricio;;Villavicencio;Villavicencio;Parra Rodriguez Ernesto Mauricio;Carrera 30 # 39 - 30;Normal  
+;900467331-2;2531;Cuidar-te S.A.S;Manzur Calderon Claudia Patricia;;Medellin;Medellin;Manzur Calderon Claudia Patricia;Carrera 43A - Calle 6 - Sur 26 - Interior 225;Normal  
+;900428225-3;2759;Cure Pereira & Cia Juan Cuper S en C;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Carrera 49C # 79 - 225;Normal  
+;900038853-5;2031;Cutanea S.A.S.;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Carrera 52 # 79  – 19 - Centro Comercial Versalles - Local 6 al 8.;Normal  
+;814003217-8;1541;Cutis Nariño Sociedad Por Acciones Simplificada;Giandomenico de Vries Juan Carlos;;Pasto;Pasto;Giandomenico de Vries Juan Carlos;Calle 20 # 25 - 71 - Local 155 - Centro Comercial Sebastián de Belalcazar;Normal  
+;805017506-1;1493;Cutis S.A.;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Calle 7 # 31 - 35 -  Local 106 - Edificio Los Cedros;Normal  
+;900532504-8;2920;Davita S.A.S;Castro Aragon Edith Yuliana;;Bogota;Bogota;Castro Aragon Edith Yuliana;Autopista Norte # 103-35;Licitada
+;900532504-8;2950;Davita S.A.S;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 49c # 82 - 165;Licitada
+;900532504-8;2951;Davita S.A.S;Zapata Zapata Jorge Ivan;;Itagui;Itagui;Zapata Zapata Jorge Ivan;Carrera 51A # 45 -51 - Piso 2;Licitada
+;900532504-8;2952;Davita S.A.S;Morales Ospina Diana Carolina;;Cucuta;Cucuta;Morales Ospina Diana Carolina;Carrera 1N # 10E - 61;Licitada
+;900532504-8;2953;Davita S.A.S;Castro Aragon Edith Yuliana;;Villavicencio;Villavicencio;Castro Aragon Edith Yuliana;Calle 32# 33 -17;Licitada
+;900532504-8;2954;Davita S.A.S;Zapata Zapata Jorge Ivan;;Medellin;Medellin;Zapata Zapata Jorge Ivan;Calle 34 # 45 - 16 - Barrio Perpetuo Socorro;Licitada
+;900532504-8;2955;Davita S.A.S;Morales Ospina Diana Carolina;;Bucaramanga;Bucaramanga;Morales Ospina Diana Carolina;Calle 16 # 27 - 10;Licitada
+;900532504-8;2956;Davita S.A.S;Insignares Jaime Marta Ligia;;Riohacha;Riohacha;Insignares Jaime Marta Ligia;Carrera 11A # 13 - 70;Licitada
+;900532504-8;2957;Davita S.A.S;Gordillo Henao Maria Fernanda;;Popayan;Popayan;Gordillo Henao Maria Fernanda;Carrera 9 # 8N - 45;Licitada
+;900532504-8;2958;Davita S.A.S;Castro Aragon Edith Yuliana;;Bogota;Bogota;Castro Aragon Edith Yuliana;Calle 73 # 72 A - 09 - Santa María Del Lago;Licitada
+;900532504-8;2959;Davita S.A.S;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Calle 26a # 33a -28;Licitada
+;900532504-8;2960;Davita S.A.S;Gordillo Henao Maria Fernanda;;Cali;Cali;Gordillo Henao Maria Fernanda;Carrera 44 # 9C - 58 - Piso 4;Licitada
+;900532504-8;2961;Davita S.A.S;Gordillo Henao Maria Fernanda;;Cali;Cali;Gordillo Henao Maria Fernanda;Calle 23 C N # 3 A N - 35;Licitada
+;900532504-8;2962;Davita S.A.S;Insignares Jaime Marta Ligia;;Soledad;Soledad;Insignares Jaime Marta Ligia;Calle 47 # 6 C - 60 - Soledad;Licitada
+;900532504-8;2963;Davita S.A.S;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Carrera 13 # 32 - 44 Sur - Piso 3 -301;Licitada
+;900532504-8;2964;Davita S.A.S;Insignares Jaime Marta Ligia;;Santa Marta;Santa Marta;Insignares Jaime Marta Ligia;Calle 14 # 15 - 24 - Avenida Libertador;Licitada
+;900532504-8;2965;Davita S.A.S;Insignares Jaime Marta Ligia;;Sincelejo;Sincelejo;Insignares Jaime Marta Ligia;Carrera 19 # 25 - 39;Licitada
+;900532504-8;2970;Davita S.A.S;Perez Quiroga Edermay;;Manizales;Manizales;Perez Quiroga Edermay;Calle 10 # 2C - 10;Licitada
+;900532504-8;2972;Davita S.A.S;Insignares Jaime Marta Ligia;;Monteria;Monteria;Insignares Jaime Marta Ligia;Calle 29 # 12 - 10;Licitada
+;84068535-7;2524;Dawd Rodriguez Juan Carlos;Vasquez Robledo Silvia Esperanza;;Riohacha;Riohacha;Vasquez Robledo Silvia Esperanza;"Calle 15 N° 12 - 67
+";Licitada
+;34544362-1;2561;Daza, Pabon, Luz. Eneida;Sandoval Burbano Jaime Vicente;;Popayan;Popayan;Sandoval Burbano Jaime Vicente;Calle 36B N # 3 - 22 -Casa 33;Normal  
+;811000620-9;1102;Deposito de Drogas Monaco S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 45 # 45A - 50;Normal  
+;812005190-1;1699;Deposito de Drogas Paris Ltda.;Viaña Catalan Luz Helena;;Monteria;Monteria;Viaña Catalan Luz Helena;Calle 40 # 1B - 79;Normal  
+;800095628-4;1105;Depósito de Drogas Profesional S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Carrera 43A  # 31 - 93;Normal  
+;860514592-5;1107;Deposito Principal de Drogas L;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Carrera 12 # 17 - 67;Normal  
+;900010197-1;2197;Dermacenter SAS;Fernandez Rodriguez Yasmin;;Neiva;Neiva;Fernandez Rodriguez Yasmin;Calle 17 # 5A - 18;Normal  
+;900414319-6;2413;Dermadrogas S.A.S.;Jaimes Rojas Melissa Katherine;;Bucaramanga;Bucaramanga;Jaimes Rojas Melissa Katherine;Carrera 35 # 51 - 109 - Barrio Cabecera;Normal  
+;900145836-8;2332;Dermaline Ltda;Penagos Clavijo Sandra Patricia;;Bogota;Bogota;Penagos Clavijo Sandra Patricia;Carrera 7 # 119 - 14 - Local 113;Normal  
+;830076071-0;2085;Dermapiel S.A.;Ferreira Santos Alexandra;;Bogota;Bogota;Ferreira Santos Alexandra;Calle 60 # 9 - 83 - Local 118 - Piso 2;Normal  
+;901087993-0;2818;Dermasolutions SAS.;Penagos Clavijo Sandra Patricia;;Bogota;Bogota;Penagos Clavijo Sandra Patricia;Calle 145 # 103B - 69 - Local 111;Normal  
+;900776425-1;2677;Dermastore S.A.S.;Lizarazo Castillo Javier Mauricio;;Ibague;Ibague;Lizarazo Castillo Javier Mauricio;Centro Comercial La Quinta - Local 117 - Barrio Hipódromo;Normal  
+;900107760-5;2163;Dermatología Help S.A.S.;Ferreira Santos Alexandra;;Bogota;Bogota;Ferreira Santos Alexandra;Calle 53B # 25 - 21 - Centro Comercial Galerias -  Local  2090;Normal  
+;890935884-6;1889;Dermatologica S.A.;Arroyave Cañas Olga Lucia;;Medellin;Medellin;Arroyave Cañas Olga Lucia;Carrera 32 # 10 - 78 - El Poblado;Normal  
+;900701208-8;2640;Dermatologica Zue Sociedad por Acciones Simplificadas;Penagos Clavijo Sandra Patricia;;Duitama;Duitama;Penagos Clavijo Sandra Patricia;Carrera 14 # 11 - 01;Normal  
+;804007353-3;1109;Dermatólogos del Oriente S.A.S.;Jaimes Rojas Melissa Katherine;;Bucaramanga;Bucaramanga;Jaimes Rojas Melissa Katherine;Transversal Oriental # 90 - 102 - Oficina 1005 - Torre Empresarial Cacique;Normal  
+;900747047-7;2663;Dermocosmeticos de Santander S.A.S;Jaimes Rojas Melissa Katherine;;Bucaramanga;Bucaramanga;Jaimes Rojas Melissa Katherine;Calle 31 # 26A - 19 - Centro Comercial La Florida - Local 317;Normal  
+;900471364-0;2520;Dermoplastika S.A.S;Giandomenico de Vries Juan Carlos;;Pasto;Pasto;Giandomenico de Vries Juan Carlos;Carrera 34 # 8 - 34 - Barrio Las Acacias;Normal  
+;900090377-0;2625;Dermosalud S.A.S;Blanco Diaz Ludy Margarita;;Bogota;Bogota;Blanco Diaz Ludy Margarita;Calle 127 bis # 19 - 25 - Consultorio 407 - Edificio Imagen 127;Normal  
+;9002311793-2;2975;Dialy Ser S.A.S.;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Av Americas # 70A - 37;Licitada
+;900231793-8;2976;Dialy Ser S.A.S.;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 51B # 69 - 13 Bloque 1 Sotano - Leon XIII;Licitada
+;900231793-8;2977;Dialy Ser S.A.S.;Torres Tobon Beatriz Elena;;Bello;Bello;Torres Tobon Beatriz Elena;Diagonal 50A # 38 - 20 Edificio Tierragro Piso 4 - Niquia - Bello;Licitada
+;900231793-8;2978;Dialy Ser S.A.S.;Perez Quiroga Edermay;;Armenia;Armenia;Perez Quiroga Edermay;Carrera 12 - 1A # 4 - 14 Edificio Empresarial Uninorte;Licitada
+;900231793-8;2979;Dialy Ser S.A.S.;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Carrera 18 # 12 - 75 - Megacentro Pinares;Licitada
+;900231793-8;2980;Dialy Ser S.A.S.;Garcia Guzman Sandra Lorena;;Popayan;Popayan;Garcia Guzman Sandra Lorena;Calle 15N # 5 - 18 - Sexto Piso La Estancia;Licitada
+;900231793-8;2981;Dialy Ser S.A.S.;Morales Ospina Diana Carolina;;Cucuta;Cucuta;Morales Ospina Diana Carolina;Calle  6N # 11E - 123 - CMQ Clinica Medico Quirurgica - Barrio Santa Lucia Cucuta - Piso 1 Unidad Renal;Licitada
+;63489227-3;2302;Diaz Uribe Luisa Helena;Jaimes Rojas Melissa Katherine;;Bucaramanga;Bucaramanga;Jaimes Rojas Melissa Katherine;Calle 49 # 28 - 24 - Barrio Sotomayor;Normal  
+;900365786-1;2735;Dis - Hospital S.A.S;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Calle 48 # 22 - 64;Licitada
+;900915198-1;2897;Disgesacolombia S.A.S;Avellaneda Pinzon Martha Lucia;;Neiva;Neiva;Avellaneda Pinzon Martha Lucia;Calle 24 # 5A - 52;Licitada
+;800052534-6;1119;Distribuciones  Axa S.A.S;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Carrera 34 # 6 - 70;Normal  
+;800052534-6;2949;Distribuciones  Axa S.A.S;Ruiz Herrera Juan Esteban;;Itagui;Itagui;Ruiz Herrera Juan Esteban;Carrera 56a # 72a - 81;Normal  
+;828002423-5;2246;Distribuidora Colombiana de Medicamentos SAS;Rodriguez  Gonzalez Viviana Marcela;;Neiva;Neiva;Rodriguez  Gonzalez Viviana Marcela;Calle 12 # 16 - 73 - Barrio Primero de Mayo - Local 2;Licitada
+;900788836-7;2810;Distribuidora e Importadora Medica Integral Dimedi SAS;Vasquez Robledo Silvia Esperanza;;Valledupar;Valledupar;Vasquez Robledo Silvia Esperanza;Carrera 18D # 21 - 116 - Barrio Primero de Mayo;Licitada
+;890901475-0;1130;Distribuidora Farmaceutica Roma;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Carrera 43G # 27 - 36;Normal  
+;890901475-0;2195;Distribuidora Farmaceutica Roma;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Calle 17 # 68D - 37 - Zona Industrial Montevideo;Normal  
+;890941663-1;1124;Distribuidora Pasteur  S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 49 # 57 - 35;Licitada
+;890941663-1;1124;Distribuidora Pasteur  S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 49 # 57 - 35;Normal  
+;900010190-9;2808;Distriguer SAS;Garcia Guzman Sandra Lorena;;Pasto;Pasto;Garcia Guzman Sandra Lorena;Calle 22 # 10 - 100  - Parque Bolivar;Licitada
+;891200235-5;1211;Distrimayor Pasto S.A.S;Giandomenico de Vries Juan Carlos;;Pasto;Pasto;Giandomenico de Vries Juan Carlos;Carrera 26 # 16 - 66;Normal  
+;900665934-2;2816;Domedical IPS SAS;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 45 # 70 - 162 - Local 13A;Licitada
+;802016780-6;2873;Domo Medica S.A.S;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 53 # 79 - 315;Licitada
+;900946306-3;2774;Dr Mama SAS;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Avenida Roosevelt # 40 - 61;Normal  
+;800099283-5;1216;Dro Servicio Ltda.;Ochoa Agudelo Errol James;;Cali;Cali;Ochoa Agudelo Errol James;Calle 29 # 12 -21;Licitada
+;890501070-5;1136;Drocentro Ltda.;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Avenida 5 # 8 - 65;Normal  
+;901230978-2;2934;Drogas Pague Menos S.A.S;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Calle 54 N° 23 - 03 - Barrio Sotomayor;Normal  
+;800231604-1;1151;Drogas S & S  S.A.S.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Calle 76 # 41D - 35;Normal  
+;807009474-6;2801;Drogas Unidas S.A.S.;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Avenida 1 # 5 - 30 - Barrio Lleras;Normal  
+;900250839-9;2527;Drogueria Especifica S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 35 No. 80-B-29;Normal  
+;900085138-7;2837;Drogueria Farmazur Ltda;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Avenida Gran Colombia 11A  # 32E - 34;Normal  
+;891100105-7;1180;Drogueria Paris Escandón S.A.S.;Lizarazo Castillo Javier Mauricio;;Neiva;Neiva;Lizarazo Castillo Javier Mauricio;Calle 8 # 3 - 72;Normal  
+;901114379-4;2859;Drogueria Prevensur SAS;Trullo Valencia Diana Ximena;;Pasto;Pasto;Trullo Valencia Diana Ximena;Calle 20 # 35- 29 - Avenida Los Estudiantes;Normal  
+;900116494-9;2847;Droguería San Jorge Florencia  Ltda;Garcia Melgarejo Wilson;;Florencia;Florencia;Garcia Melgarejo Wilson;Calle 15 # 14 - 54;Normal  
+;901161550-8;2876;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Cali;Cali;Urrego Bernal Maria Isabel;Calle 5 N° 38-19/25 Oficina 321 Edificio Plaza San Fernando;Normal  
+;901161550-8;2877;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Bogota;Bogota;Urrego Bernal Maria Isabel;Calle 100 N° 19A-10 Oficina 301 y 302 - Edificio Torre Azul  Tel: 8050768;Normal  
+;901161550-8;2878;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Barranquilla;Barranquilla;Urrego Bernal Maria Isabel;Calle  74 N° 50-53 Oficina 205 Edificio Rumie;Normal  
+;901161550-8;2879;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Medellin;Medellin;Urrego Bernal Maria Isabel;Calle  47D N° 72 - 183 Oficina 101 Edificio Los Danubios;Normal  
+;901161550-8;2882;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Chia;Chia;Urrego Bernal Maria Isabel;Carrera 1 No. 11-130 Oficina 221;Normal  
+;901161550-8;2883;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Pereira;Pereira;Urrego Bernal Maria Isabel;Carrera 4 N° 20-55 L-3;Normal  
+;901161550-8;2884;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Pasto;Pasto;Urrego Bernal Maria Isabel;Carrera 25 N° 15-62 Local 212 Centro Comercial Zaguan del Lago;Normal  
+;901161550-8;2885;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Ibague;Ibague;Urrego Bernal Maria Isabel;Carrera 5 N° 14 -76 Oficina 207;Normal  
+;901161550-8;2886;Droguerias Galenica SAS;Urrego Bernal Maria Isabel;;Bucaramanga;Bucaramanga;Urrego Bernal Maria Isabel;Calle 48 N° 32-14 Oficina 405 Edificio Tempo I;Normal  
+;900964798-1;2839;Droguerias Protegemos SAS;Trullo Valencia Diana Ximena;;Pasto;Pasto;Trullo Valencia Diana Ximena;Carrera 36 # 19 - 93 - Barrio Palermo;Normal  
+;800149695-1;1247;Droguerias y Farmacias Cruz Verde S.A.S.;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Diagonal 22A # 68A - 70 - Cedi Montevideo;Normal  
+;800149695-1;1247-INS;Droguerias y Farmacias Cruz Verde S.A.S.;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Diagonal 22A # 68A - 70 - Cedi Montevideo;Licitada
+;800149695-1;1247-INS;Droguerias y Farmacias Cruz Verde S.A.S.;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Diagonal 22A # 68A - 70 - Cedi Montevideo;Normal  
+;900265730-0;2692;Dromedicas del Oriente SAS;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Avenida 7 # 0BN - 38 - Barrio Sevilla;Normal  
+;900265730-0;2948;Dromedicas del Oriente SAS;Mora Garcia Laura Constanza;;Barranquilla;Barranquilla;Mora Garcia Laura Constanza;Carrera 46 # 96 - 20 - Barrio El Poblado.;Normal  
+;890922113-1;1361;Dropopular S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Carrera 74 # 53 - 145;Normal  
+;890922113-1;1361-INS;Dropopular S.A.;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 74 # 53 - 145;Licitada
+;800165262-3;1215;Drosan Ltda.;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Carrera 26 # 36 - 48;Normal  
+;800247350-6;1048;E.S.E. Centro Dermatologico Federico Lleras Acosta;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Avenida 1 # 13A - 61;Licitada
+;800006150-6;1224;Empresa Cooperativa de Servicios de Salud Emcosalud;Rodriguez  Gonzalez Viviana Marcela;;Neiva;Neiva;Rodriguez  Gonzalez Viviana Marcela;Calle 5 # 6 - 63;Licitada
+;51739111-8;2239;Escobar Bustos Carmen del Pilar;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 31W # 71 - 70 - Barrio Porvenir - Lote 4;Licitada
+;892300678-7;1106;Eticos Serrano Gomez Ltda.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Vía 40 # 71 - 124;Normal  
+;892300678-7;1106-INS;Eticos Serrano Gomez Ltda.;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Vía 40 # 71 - 124;Licitada
+;892300678-7;2075;Eticos Serrano Gomez Ltda.;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Autopista MedellÍn Kilometro 3.5 Costado Norte - Centro Empresarial Metropolitano - Bodegas 53 y 54 - Módulo # 4.;Normal  
+;892300678-7;2172-INS;Eticos Serrano Gomez Ltda.;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 33W # 71 - 95 - Bodegas Provincia de Soto 1 - Bodega 41;Licitada
+;892300678-7;2223;Eticos Serrano Gomez Ltda.;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Calle 30 # 8A - 20;Normal  
+;892300678-7;2459;Eticos Serrano Gomez Ltda.;Viaña Catalan Luz Helena;;Valledupar;Valledupar;Viaña Catalan Luz Helena;Calle 17 # 21 - 136;Normal  
+;892300678-7;2460;Eticos Serrano Gomez Ltda.;Viaña Catalan Luz Helena;;Sincelejo;Sincelejo;Viaña Catalan Luz Helena;Carrera 4 Troncal Occidente - Tolú Sampues;Normal  
+;891409291-7;1235;Eve Distribuciones S.A.S;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Calle 105 # 15 - 100 - Belmonte;Licitada
+;891409291-7;1235;Eve Distribuciones S.A.S;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Calle 105 # 15 - 100 - Belmonte;Normal  
+;891409291-7;1235-INS;Eve Distribuciones S.A.S;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Calle 105 # 15 - 100 - Belmonte;Licitada
+;900984322-3;2917;Excellent Group Life Care S.A.S;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Calle 13 #68 64- Centro Comercial Limonar - Oficina 216;Licitada
+;900332290-9;2844;Exfarma S.A.S;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Calle 105 A # 23A - 138;Normal  
+;900646007-9;2610;Farma Pelle SAS;Rodriguez Cavallo Ronald Antonio;;Monteria;Monteria;Rodriguez Cavallo Ronald Antonio;arrera 7 # 27 - 48 -;Normal  
+;900752431-2;2666;Farma Xpress S.A.S;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Calle 49B # 64C - 35 - Edificio Brasilia III -  Interior 112 - Consultorios;Licitada
+;900752431-2;2666;Farma Xpress S.A.S;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Calle 49B # 64C - 35 - Edificio Brasilia III -  Interior 112 - Consultorios;Normal  
+;900231137-6;2335;Farmaceres S.A.;Torres Tobon Beatriz Elena;;Envigado;Envigado;Torres Tobon Beatriz Elena;Carrera 46 - Calle 48C - 40 - Sur - Ciudadela Real - Bodega 142 - Piso 2;Licitada
+;811017236-8;1108;Farmacia Derma Life S.A.S;Toro Melguizo Sandra Patricia;;Medellin;Medellin;Toro Melguizo Sandra Patricia;Calle 53 # 46 - 47 - Local 109 - Centro;Normal  
+;805002583-1;2662;Farmacia Drogueria San Jorge Ltda Drogueria San Jorge Ltda;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Calle 23 B Norte # 3N - 100;Normal  
+;900086681-1;2826;Farmacia Etica de Chia Ltda;Garcia Melgarejo Wilson;;Chia;Chia;Garcia Melgarejo Wilson;Carrera 13 # 15 - 80 -86;Normal  
+;890111311-1;1245;Farmacia Torres Ltda.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Carrera 43 - Calle 61 Esquina;Normal  
+;900320144-1;2674;Farmacos de la Costa Ltda;Viaña Catalan Luz Helena;;Monteria;Monteria;Viaña Catalan Luz Helena;Kilometro 3 Vía Planeta Rica Calle A - San Jeronimo Centro Logístico e Indusatrial - Bodega 83;Normal  
+;900320144-1;2674-INS;Farmacos de la Costa Ltda;Vasquez Robledo Silvia Esperanza;;Monteria;Monteria;Vasquez Robledo Silvia Esperanza;Kilometro 3 Vía Planeta Rica Calle A - San Jeronimo Centro Logistico e Industrial - Bodega 83;Licitada
+;900826563-5;2804;Farmareina Droguería SAS;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 49C # 80 - 225;Licitada
+;830129327-1;2065;Farmatodo Colombia S.A.;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Carrera 11a N° 98 - 50 - Edificio Punto 99 - Tercer Piso.;Normal  
+;830089681-1;2787;Fondo de Empleados Garmisch Fondegar;Urrego Bernal Maria Isabel;;Bogota;Bogota;Urrego Bernal Maria Isabel;Calle 100 # 19A - 10 - Oficina 302;Normal  
+;23550778;1193;Francia Ruth Plazas de Silva;Rodriguez Vargas Cristian Camilo;;Sogamoso;Sogamoso;Rodriguez Vargas Cristian Camilo;Carrera 11 # 9 - 15;Normal  
+;59830018-8;2830;Fuertes Mejia Yaneth Patricia;Garcia Guzman Sandra Lorena;;Pasto;Pasto;Garcia Guzman Sandra Lorena;Carrera 36 -1 Oeste - 3 via Anganoy;Licitada
+;800182625-5;2832;Fundacion Cancerologica del Quindio;Perez Quiroga Edermay;;Armenia;Armenia;Perez Quiroga Edermay;Calle 17 Norte # 14 - 62 - Bajos;Normal  
+;900261353-9;2799;Fundación Hospital San Vicente de Paul Rionegro;Zapata Zapata Jorge Ivan;;Rionegro;Rionegro;Zapata Zapata Jorge Ivan;Vereda La Convención Vía Aereopuerto - Llano Grande Kilometro 2;Licitada
+;890900518-4;2800;Fundación Hospitalaria San Vicente De Paul;Zapata Zapata Jorge Ivan;;Medellin;Medellin;Zapata Zapata Jorge Ivan;Calle 64 - 3 # 54D - 154;Licitada
+;800050068-6;1256;Fundacion Medico Preventiva;Pertu Contreras Antonio Jose;;Valledupar;Valledupar;Pertu Contreras Antonio Jose;Calle 16 # 17 - 261;Licitada
+;890205361-4;1259;Fundacion Oftalmologica de Santander;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Urbanización El Bosque Autopista Florida;Normal  
+;890205361-4;1259-INS;Fundacion Oftalmologica de Santander;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Urbanizacion El Bosque Autopista Florida;Licitada
+;814003884-0;2776;Fundacion Proyeccion Vida y Medio Ambiente Provima;Gordillo Henao Maria Fernanda;;Cali;Cali;Gordillo Henao Maria Fernanda;Calle 5B 4 # 38 - 51 - Barrio San Fernando;Licitada
+;860037950-2;1260;Fundacion Santa Fe de Bogota;Castro Aragon Edith Yuliana;;Bogota;Bogota;Castro Aragon Edith Yuliana;Calle 119 No. 7-75;Licitada
+;805007737-1;2794;Fundación Unión Para el Control de Cáncer;Gordillo Henao Maria Fernanda;;Cali;Cali;Gordillo Henao Maria Fernanda;Calle 5B # 29 - 01 - Tres de Julio;Licitada
+;890324177-5;2846;Fundacion Valle del Lili;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Carrera 98 # 18 - 49;Licitada
+;900479188-7;2479;Garcia y Rojas DB S.A.S.;Blanco Diaz Ludy Margarita;;Villavicencio;Villavicencio;Blanco Diaz Ludy Margarita;Avenida 40 # 26C - 10 - Centro Comercial Unicentro - Barrio Nuevo Maizaro - Local 336;Normal  
+;901039274-9;2862;Glaucoma Unit S.A.S;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 43A # 18 - 135 - Sur - Oficina 932;Normal  
+;822007374-3;2823;Gomez Jimenez Hnos Cia Ltda;Velasquez Acosta Carmen Liliana;;Villavicencio;Villavicencio;Velasquez Acosta Carmen Liliana;Calle 38  #  30A - 30 Barrio Centro;Normal  
+;60334891-8;2855;Gomez Rincon Aura Ligia;Velasquez Luna Leidy Dayana;;Bucaramanga;Bucaramanga;Velasquez Luna Leidy Dayana;Carrera 8N # 1N - 43 - Barrio Santander;Normal  
+;900047874-8;2329;Grupo Afin Farmacéutica S.A.S;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Calle 46 # 41 - 69 - Bloque 1 - Piso 2;Licitada
+;901154491-2;2887;Grupo Boticar S.A.S;Trullo Valencia Diana Ximena;;Palmira;Palmira;Trullo Valencia Diana Ximena;Aeropuerto Alfonso Bonilla Aragon - Piso 2;Normal  
+;817004260-0;2360;Grupo Dao SAS;Trullo Valencia Diana Ximena;;Popayan;Popayan;Trullo Valencia Diana Ximena;Calle 67N # 9 - 59 Bello Horizonte;Normal  
+;817004260-0;2360-INS;Grupo Dao SAS;Garcia Guzman Sandra Lorena;;Popayan;Popayan;Garcia Guzman Sandra Lorena;Calle 67N # 9 - 59 Bello Horizonte;Licitada
+;900610251-4;2670;Grupo Empresarial Aga SAS;Rodriguez Cavallo Ronald Antonio;;Monteria;Monteria;Rodriguez Cavallo Ronald Antonio;Calle 25 # 6 - 48;Normal  
+;901114556-1;2939;Grupo Empresarial Provima SAS;Gordillo Henao Maria Fernanda;;Pasto;Pasto;Gordillo Henao Maria Fernanda;Carrera 29 # 20 - 44 - Barrio Las Cuadras;Licitada
+;900422684-3;2888;Grupo Farmaceutico Camarfarma S.A.S.;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Carrera 4B  # 31A - 21 - Barrio Cadiz;Licitada
+;900680905-1;2890;Grupo R & G S.A.S.;Rodriguez  Gonzalez Viviana Marcela;;Villavicencio;Villavicencio;Rodriguez  Gonzalez Viviana Marcela;Carrera 34 # 38 - 42;Licitada
+;901058980-1;2937;Grupo Vitalmax S.A.S;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Calle 72 # 29 - 35;Licitada
+;20781506-8;1864;Gutierrez Bohorquez Maria Ines;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Transversal 76B # 51A - 6 - Barrio San Ignacio;Licitada
+;828001136-1;1267;H. & V Cia Ltda.;Rodriguez  Gonzalez Viviana Marcela;;Florencia;Florencia;Rodriguez  Gonzalez Viviana Marcela;Calle 19 # 13 - 41;Licitada
+;900082911-0;2780;Health Net SAS;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Carrera 62 # 17 B - 14 - Sefarcol S.A. - Zona Industrial Bogotá;Licitada
+;900277244-4;2318;Helpharma S.A.;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 43A # 34 - 95 - Piso 1101;Licitada
+;900277244-4;2994;Helpharma S.A.;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Calle 84 # 53 - 46 Local 2 Piso 1, Altos del prado;Licitada
+;805017350-8;2378;Hemato Oncologos S.A.;Gordillo Henao Maria Fernanda;;Cali;Cali;Gordillo Henao Maria Fernanda;Calle 5B 5 # 38 - 10;Licitada
+;900862744-4;2727;Higia Dermatologika S.A.S;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Calle 5-B 3 # 38 -44 Oficina 304;Normal  
+;800127648-0;2567;Horus Grupo Oftalmologico S.A.;Garcia Ortega Yenny;;Bogota;Bogota;Garcia Ortega Yenny;Carrera 19B # 84 - 65 - Barrio Aniguo Country;Normal  
+;890901826-2;1279;Hospital Pablo Tobon Uribe;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Calle 78-B # 69-240;Licitada
+;860015536-1;2785;Hospital Universitario San Ignacio;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Carrera 7 # 40 - 62;Licitada
+;900463322-8;2514;I.P.S. Rafael Macias Pajaro Oftalmologo S.A.S;Rodriguez Cavallo Ronald Antonio;;Monteria;Monteria;Rodriguez Cavallo Ronald Antonio;Calle 25 # 8 - 37;Normal  
+;823002227-1;2802;Instituto de Cancerologia de Sucre SAS;Insignares Jaime Marta Ligia;;Sincelejo;Sincelejo;Insignares Jaime Marta Ligia;Carrera 22 # 18 - 123-  Barrio Ford;Licitada
+;800149026-4;2845;Instituto de Cancerologia S.A.;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Diagonal 75B # 2A - 80 - 140;Licitada
+;800089364-0;2338;Instituto de Cornea S.A.S;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Carrera 7 A - No. 121 - 36;Normal  
+;900568615-2;2853;Instituto de Osteoporosis S.A.S;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Avenida Boyaca 54A -15;Licitada
+;823003317-9;2973;Instituto del Riñon de Sucre S.A.S;Vasquez Robledo Silvia Esperanza;;Sincelejo;Sincelejo;Vasquez Robledo Silvia Esperanza;Calle 22 # 24 - 33 - Barrio Centro;Licitada
+;900491595-0;2866;Integral Medi SAS;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 35 # 46 - 102 - Barrio Cabecera;Licitada
+;860502262-8;1358;Internacional de Drogas S.A.;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Carrera 34 # 7 - 73 Barrio Pensilvania;Normal  
+;900166084-6;2217;Invermer S.A.S.;Cardona Vasquez Tatiana;;Pereira;Pereira;Cardona Vasquez Tatiana;Carrera 9 # 22 - 52 - Centro Comercial La Plaza - Local 121;Normal  
+;901186261-2;2922;Inverpacifico Dermatologica S.A.S;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Calle 4 N° 5B - 91 - Barrio Centro;Normal  
+;900365068-1;2710;Inversiones Casduran SAS;Lopez Torres Nury Andrea;;Bogota;Bogota;Lopez Torres Nury Andrea;Calle 125 # 21A - 4 - Local 101;Normal  
+;800096907-9;2824;Inversiones Cedeno Cueter y CIA S en C;Viaña Catalan Luz Helena;;Cartagena;Cartagena;Viaña Catalan Luz Helena;Calle 32 # 9 - 152 - Piso 1 - Local 1 - Sector La Matuna - Barrio Centro;Normal  
+;900435571-6;2637;Inversiones La Mejoría SAS;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Carrera 66 # 48 C - 17;Normal  
+;830500960-2;2650;Inversiones Todo Drogas SAS;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 49 # 47 - 50;Normal  
+;816004538-9;2475;IPS Biotech and Life S.A.;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Carrera 8 # 23 - 09 - Piso 1 - Local  6B;Licitada
+;830506324-5;2936;J García Harker Centro Pediatrico Ltda.;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Carrera 26 N° 48 - 26 - Casa 206 - 207;Normal  
+;9076732-2;2671;Jaller Raad Antonio Miguel;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Carrera 51 B # 82 - 211;Normal  
+;43813759-7;2889;Jaramillo Mejía Isabel Cristina;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Carrera 65D # 34B - 25;Normal  
+;24330136-6;2871;Jimenez Estrada Martha Lucia;Cardona Vasquez Tatiana;;Manizales;Manizales;Cardona Vasquez Tatiana;Carrera 23 # 65A - 41 - Edificio Parque Médico - Casa 701;Normal  
+;10227058-9;2707;Jimenez Garcia Fernando;Perez Quiroga Edermay;;Manizales;Manizales;Perez Quiroga Edermay;Carrera 22 # 20 - 05;Normal  
+;807005562-8;1012;La Botica de la Piel Limitada;Velásquez Luna Leydi Dayana;;Cucuta;Cucuta;Velásquez Luna Leydi Dayana;Calle 15 # 1E-126 Caobos;Normal  
+;892200702-7;2813;La Cascada Hermanos Mesa Yepes SAS;Viaña Catalan Luz Helena;;Sincelejo;Sincelejo;Viaña Catalan Luz Helena;Calle 21 # 21 - 40;Normal  
+;890300292-0;2933;Laboratorios Baxter S.A;Gordillo Henao Maria Fernanda;;Cali;Cali;Gordillo Henao Maria Fernanda;Calle 36 N° 2C - 22;Normal  
+;901087523-2;2865;Ladivina CO SAS;Castro Aragon Edith Yuliana;;Barranquilla;Barranquilla;Castro Aragon Edith Yuliana;Calle 53 # 46 - 192;Normal  
+;900242755-5;2529;Laser Skin Ltda.;Rodriguez Cavallo Ronald Antonio;;Sincelejo;Sincelejo;Rodriguez Cavallo Ronald Antonio;Carrera 20 # 18 - 04 - Barrio La For;Normal  
+;805011901-9;1799;Laskin S.A.;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Carrera 39 # 5A - 91;Normal  
+;805011901-9;2984;Laskin S.A.;Cardona Vasquez Tatiana;;Armenia;Armenia;Cardona Vasquez Tatiana;Calle 13 # 19 - 139;Normal  
+;805011901-9;2985;Laskin S.A.;Cardona Vasquez Tatiana;;Pereira;Pereira;Cardona Vasquez Tatiana;Avenida Cincunvalar Entre calle 4 y 5 # 4 - 93;Normal  
+;93435291-2;2819;Lazo Sanchez Darwin Alejandro;Fernandez Rodriguez Yasmin;;Girardot;Girardot;Fernandez Rodriguez Yasmin;Calle 18 A # 6-37 Local 101 Barrio Quirinal;Normal  
+;15898828-1;2835;Lemus Cano Jairo Antonio;Perez Quiroga Edermay;;Manizales;Manizales;Perez Quiroga Edermay;Carrera 8 # 10 - 60;Normal  
+;900333366-4;2656;Life Med Colombia Sociedad por Acciones Simplificadas;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Calle 57 # 23 - 100 - Piso 3 - Oncología;Licitada
+;860006560-0;2380;Liga Colombiana contra el  Cancer;Castro Aragon Edith Yuliana;;Bogota;Bogota;Castro Aragon Edith Yuliana;Carrera 12A # 77 - 34;Licitada
+;70121347-4;2841;Lopez Acevedo Jose Gustavo;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;CR 70 110 28;Normal  
+;1018406210-0;2863;Lozano Sanchez Ana Maria;Fernandez Rodriguez Yasmin;;Ibague;Ibague;Fernandez Rodriguez Yasmin;Carrera 6 # 21 - 66 - Barrio El Carmen;Normal  
+;830107855-2;1872;Macromed S.A.S.;Avellaneda Pinzon Martha Lucia;;Bogota;Bogota;Avellaneda Pinzon Martha Lucia;Carrera 56 # 5C - 38;Licitada
+;9306264-5;2860;Marquez Salom Gustavo Adolfo;Viaña Catalan Luz Helena;;Sincelejo;Sincelejo;Viaña Catalan Luz Helena;Carrera 50 # 27 - 100 - Apartamento 101B;Normal  
+;802021040-4;1876;Mas Salud I.P.S. Ltda.;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 47 # 79-91;Licitada
+;900772787-4;2968;Medi Farma de la Costa IPS SAS;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 47 # 84 - 170;Licitada
+;900923685-0;2891;Medical Group Anma SAS;Rodriguez  Gonzalez Viviana Marcela;;Neiva;Neiva;Rodriguez  Gonzalez Viviana Marcela;Calle 8 # 26 - 27;Licitada
+;805030765-4;2155;Medicamentos Especializados S.A.S.;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Calle 9 # 41 - 17;Licitada
+;811016426-6;1707;Medicamentos Pos S.A.;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 46 # 48C - 40 - Sur -  Bodega 136;Licitada
+;900246105-6;2257;Medicapiel S.A.;Cardona Vasquez Tatiana;;Cartago;Cartago;Cardona Vasquez Tatiana;Calle 8 # 4 - 35;Normal  
+;900843971-9;2815;Medicavital SAS;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 51B # 80 - 58 -Oficina 503B;Licitada
+;900476271-7;2754;Mediccol I.P.S. S.A.S.;Perez Quiroga Edermay;;Manizales;Manizales;Perez Quiroga Edermay;Carrera 23 # 68 - 17;Licitada
+;800250634-3;2598;Medicina Integral S.A.;Vasquez Robledo Silvia Esperanza;;Monteria;Monteria;Vasquez Robledo Silvia Esperanza;"Calle 44 # 14 - 232 
+- Barrio Portal de Almeria";Licitada
+;830512218-7;2528;Medimarcas S.A.S;Viaña Catalan Luz Helena;;Sincelejo;Sincelejo;Viaña Catalan Luz Helena;Calle 38 # 4A - 184 - Manzana 1 - Sector Parque Industrial - Bodega 10 al 11;Normal  
+;811041214-7;1927;Medipiel S.A.;Toro Melguizo Sandra Patricia;;Medellin;Medellin;Toro Melguizo Sandra Patricia;Calle 10B sur # 51A - 32 - Centro de Negocios del Sur - Local 108 - Sector Guayabal;Normal  
+;900586928-9;2858;Medisin SAS;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Calle 48 # 22 - 22 - Barrio La Concordia;Licitada
+;900463808-5;2702;Meditec Calidad en Salud SAS;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Carrera 37 # 5B - 54 - Barrio San Fernando Nuevo;Licitada
+;900517932-4;2807;Medivalle SF SAS;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Calle 4 # 24C - 22;Licitada
+;900891998-1;2792;Megafarma De Colombia S.A.S.;Garcia Guzman Sandra Lorena;;Pasto;Pasto;Garcia Guzman Sandra Lorena;Carrera 33 # 15 - 28 - Barrio San Ignacio;Licitada
+;819006509-5;2203;Mi Piel Ltda;Rondon Acosta Gustavo Rafael;;Santa Marta;Santa Marta;Rondon Acosta Gustavo Rafael;Centro Comercial Prado Plaza - Local 230;Normal  
+;900279825-2;2276;Neodermis Ltda;Moreno Mora Elmer Andres;;Bogota;Bogota;Moreno Mora Elmer Andres;Calle 15 # 16 - 11 - Sur;Normal  
+;900699359-3;2931;Neuromedica S.A.S;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 43 N° 34 - 95  - Local 1B;Licitada
+;900699359-3;2967;Neuromedica S.A.S;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 49c # 80 - 104 - Barrio Altos del Prado;Licitada
+;900167158-7;2421;Nexus Group Ltda;Nivia Ubaque Maria de los Angeles;;Bogota;Bogota;Nivia Ubaque Maria de los Angeles;Carrera 14A # 1112 - 79;Normal  
+;24873903-9;2647;Ocampo Garcia Sandra Liliana;Cardona Vasquez Tatiana;;Manizales;Manizales;Cardona Vasquez Tatiana;Calle 66A # 31B -25 - Piso 1;Normal  
+;900098550-5;2115;Offimedicas S.A.;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 32W # 71 - 139 - Provincia de Soto I Etapa PH Lote # 32;Licitada
+;900098550-5;2875;Offimedicas S.A.;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Carrera 40 # 5B - 71 - Barrio Tequendama;Licitada
+;823002800-0;2574;Oftalmologos Asociados de la Costa S.A.S.;Rodriguez Cavallo Ronald Antonio;;Sincelejo;Sincelejo;Rodriguez Cavallo Ronald Antonio;Calle 25B # 25 - 152;Normal  
+;860006626-8;2144;Oftalmos S.A.;Garcia Ortega Yenny;;Bogota;Bogota;Garcia Ortega Yenny;Calle 100  #18A - 51 - Piso 4;Normal  
+;900368128-9;2468;Operadora Lomar Colombia S.A.S;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Transversal 71D # 6 - 94 - Sur - Plaza  de la Mariposa -  Local 1008;Normal  
+;860019014-7;2842;Orden Hospitalaria De San  Juan De Dios;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Calle 13 # 68F - 25 - Servicio Farmaceutico - Clínica De Nuestra Señora De La Paz;Licitada
+;890102768-5;1395;Organiz.Clinica General Norte;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 48 # 70 - 38;Licitada
+;800194798-2;2350;Organización Clínica Bonnadona - Prevenir S.A.;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 49C #  82 - 54;Licitada
+;900049489-4;2913;"Organización Colombia Contra La Pediculosis ""Cabellos Sanos"" S.A.S.";Nivia Ubaque Maria de los Angeles;;Bogota;Bogota;Nivia Ubaque Maria de los Angeles;Avenida - Carrera - 15 # 119 - 59 - Oficina 413;Normal  
+;820004433-9;2071;Organizacion Cooperativa la Economia;Avellaneda Pinzon Martha Lucia;;Tunja;Tunja;Avellaneda Pinzon Martha Lucia;Calle 58 # 2 - 80 - Santa Ana;Licitada
+;800003111-5;2741;Otofon Sociedad por Acciones Simplificada;Nivia Ubaque Maria de los Angeles;;Bogota;Bogota;Nivia Ubaque Maria de los Angeles;Carrera 7 # 119 - 14 - Casa 310 - 332;Normal  
+;900216238-9;2827;Pacho Drogas SAS;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Carrera 25 # 80 -116 - Manzana 21 - Casa 1A - Los Corales;Normal  
+;42206764;1989;Palacio Theran Margarita;Viaña Catalan Luz Helena;;Sincelejo;Sincelejo;Viaña Catalan Luz Helena;Carrera 17 # 20 - 08;Normal  
+;900144536-9;2180;Para tu Piel S.A.;Cardona Vasquez Tatiana;;Manizales;Manizales;Cardona Vasquez Tatiana;Calle 61 # 24 - 35;Normal  
+;55161814-9;2941;Perdomo Guzman Katherine;Lizarazo Castillo Javier Mauricio;;Neiva;Neiva;Lizarazo Castillo Javier Mauricio;Carrera 17 # 9 - 54;Normal  
+;7687262-7;2935;Perez Perez Luis Guillermo;Cuellar Tovar Walter Zaid;;Neiva;Neiva;Cuellar Tovar Walter Zaid;Calle 18 N° 5 - 96;Normal  
+;830110109-7;2160;Pharmaplus S.A.S.;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Carrera 28 # 86 - 23 - Local 101 - Polo Club;Normal  
+;830110109-7;2629;Pharmaplus S.A.S.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle  86  # 27 - 54 - Barrio El Polo;Normal  
+;830110109-7;2728;Pharmaplus S.A.S.;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Calle  86 # 27 - 54 - Barrio El Pol;Normal  
+;830110109-7;2739;Pharmaplus S.A.S.;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Calle  86 # 27 - 54 - Barrio El Polo;Normal  
+;830110109-7;2806;Pharmaplus S.A.S.;Cardona Vasquez Tatiana;;Pereira;Pereira;Cardona Vasquez Tatiana;Calle 86 # 27 - 54 - Barrio El Polo;Normal  
+;830110109-7;2867;Pharmaplus S.A.S.;Jaimes Rojas Melissa Katherine;;Bucaramanga;Bucaramanga;Jaimes Rojas Melissa Katherine;Calle 86 # 27 - 54 - Barrio El Polo;Normal  
+;900440251-4;2417;Piel Caribe Sociedad Por Acciones S implificada;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Calle 82 # 51B - 11 - Local 5;Normal  
+;900161484-6;2216;Piel Farmaceutica Especializad;Arroyave Cañas Olga Lucia;;Medellin;Medellin;Arroyave Cañas Olga Lucia;Carrera 32 # 2 - Sur 47 - Local 105;Normal  
+;830109447-1;1792;Piel y Vida Productos Dermatologicos S.A.S.;Ferreira Santos Alexandra;;Bogota;Bogota;Ferreira Santos Alexandra;Calle 79 # 16A - 20 - Oficina 605;Normal  
+;804016084-5;2228;Productos Hospitalarios S.A. Pro-H S.A.;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 23 # 33 - 33 y 29;Licitada
+;800176807-4;1408-INS;Profesionales de la Salud S.A.;Garcia Guzman Sandra Lorena;;Pasto;Pasto;Garcia Guzman Sandra Lorena;Calle 14 # 34 - 24 - Barrio San Ignacio;Licitada
+;26759488-3;2004;Pulgarin Herrera Rosalba;Rodriguez  Castillo Greys Vanessa;;Valledupar;Valledupar;Rodriguez  Castillo Greys Vanessa;Calle 11 # 13 - 50 - Centro Comercial City Gold - Local 104 B;Normal  
+;901122702-4;2870;Radiante Centro Integral de Dermatologia y Estetica SAS;Ferreira Santos Alexandra;;Bogota;Bogota;Ferreira Santos Alexandra;Carrera 21 # 53 - 75;Normal  
+;98565425-8;2767;Ramirez Vasquez Ivan Mauricio;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 49 CR 39 - 78;Normal  
+;900354715-1;2406;Redixa S.A.S.;Pulecio Alarcon Leandro;;Bogota;Bogota;Pulecio Alarcon Leandro;Calle 81 # 13 - 05 - Centro Comercial Atlantis -Local 209B;Normal  
+;55246363-5;2661;Reguillo Vega  Belkis;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Calle 82 # 42G - 06 - Local 1;Normal  
+;830116039-7;1833;Representaciones Abprt S.A.S.;Ferreira Santos Alexandra;;Bogota;Bogota;Ferreira Santos Alexandra;Calle 53B # 25 - 81 - Local 2044 - Galerias;Normal  
+;900273435-6;2693;Representaciones Idarraga e Idarraga S en C.S.;Perez Quiroga Edermay;;Pereira;Pereira;Perez Quiroga Edermay;Carrera 25 # 67 B - 23 Barrio Cuba;Normal  
+;22527294-1;2371;Rey Musa Maria del Rosario;Rodriguez Cavallo Ronald Antonio;;Sincelejo;Sincelejo;Rodriguez Cavallo Ronald Antonio;Carrera 20 # 17 - 09;Normal  
+;1020418627-7;2940;Rivera Rios Johannz Eladio;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Calle 44 # 74 -20;Normal  
+;28879171-6;2903;Rodriguez Ñustes Omaira;Lizarazo Castillo Javier Mauricio;;Ibague;Ibague;Lizarazo Castillo Javier Mauricio;Calle 36 # 4D - 05 - Barrio Cadiz;Normal  
+;79266733-1;2831;Ruiz Reina Carlos Fernando;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Carrera 7 # 7 - 93;Normal  
+;900394986-1;2401;Saint-Priest S.A.S.;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Calle 79 # 51 - 72 - Local 6;Normal  
+;17068260-3;1675;Salamanca Rafael Antonio;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Transversal 93 # 51 - 98 - Bodega 18 - Parque Empresarial Puerta del Sol;Licitada
+;900370750-7;2366;Salud Tropical S.A.S.;Bernal Parra Juan Carlos;;Bogota;Bogota;Bernal Parra Juan Carlos;Calle 79 # 89A - 40 -Local 303;Normal  
+;811045769-0;1998;Serv. Esp. Salud Mental S.A.S.;Sandoval Burbano Jaime Vicente;;Cali;Cali;Sandoval Burbano Jaime Vicente;Calle 5B # 40 - 26 - Barrio Tequendama;Normal  
+;811045769-0;2041;Serv. Esp. Salud Mental S.A.S.;Salazar Galeano Luz Edilia;;Bogota;Bogota;Salazar Galeano Luz Edilia;Calle 79 # 16A - 30 - Local 2;Normal  
+;811045769-0;2653;Serv. Esp. Salud Mental S.A.S.;Serna Jaraba Aleida Esther;;Barranquilla;Barranquilla;Serna Jaraba Aleida Esther;Carrera 47 # 80 - 45 - Local 4;Normal  
+;800162035-4;1438;Servicios Medicos Integrales de Salud SAS;Rodriguez  Gonzalez Viviana Marcela;;Villavicencio;Villavicencio;Rodriguez  Gonzalez Viviana Marcela;Calle 32 # 40A - 32;Licitada
+;830002272-7;2836;Servimed Institucion Prestadora de Servicios de Salud S.A. Servimed I.P.S.S;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Calle 53 # 73A - 96;Licitada
+;830002272-7;2836;Servimed Institucion Prestadora de Servicios de Salud S.A. Servimed I.P.S.S;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Calle 53 # 73A - 96;Normal  
+;900363673-9;2874;Sinergia Global en Salud S.A.S;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Carrera 44A # 9C - 67;Licitada
+;830510982-7;2037;Skin Shop S.A.;Arroyave Cañas Olga Lucia;;Medellin;Medellin;Arroyave Cañas Olga Lucia;Carrera 32 # 2 - 47 - Sur - Mall zona 2 -  Sotano 3 - Local 9704;Normal  
+;830118130-9;2392;Skin Store S.A.S.;Nivia Ubaque Maria de los Angeles;;Bogota;Bogota;Nivia Ubaque Maria de los Angeles;Avenida 19 # 122 - 49 - Centro Comercial Santa Barbara Drive -  Local 27 al 28;Normal  
+;900308933-5;2285;SkinFarma S.A.S;Nivia Ubaque Maria de los Angeles;;Bogota;Bogota;Nivia Ubaque Maria de los Angeles;Calle 116 # 9 - 72 - Local 102;Normal  
+;806006237-1;2301;Sociedad de Cancerologia de la Costa Ltda;Insignares Jaime Marta Ligia;;Cartagena;Cartagena;Insignares Jaime Marta Ligia; Carrera 82 # 31 - 320 - Barrio Ternera Calle El Eden;Licitada
+;900191362-4;2428;Sociedad de Oftalmología y Cirugia Plástica de Cucuta S.A;Rojas Monsalve Natalia Katherine;;Cucuta;Cucuta;Rojas Monsalve Natalia Katherine;Avenida 1 # 15 - 04 - Barrio La Playa;Normal  
+;824000687-9;2751;Sociedad de Oncologia y  Hematologia del Cesar Ltda.;Vasquez Robledo Silvia Esperanza;;Valledupar;Valledupar;Vasquez Robledo Silvia Esperanza;Calle 15 # 14 - 91 - Edifico San Jorge;Licitada
+;69007001-0;2469;Solarte Narvaez Monica Ibeeth;Lizarazo Castillo Javier Mauricio;;Mocoa;Mocoa;Lizarazo Castillo Javier Mauricio;Carrera 9 - Calle 24 Esquina - Barrio Jorge  Eliecer Gaitán;Normal  
+;900580962-2;2724;Solinsa G.C S.A.S.;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Centro Logistico San Jorge  - Bodega  92;Licitada
+;900342522-5;2612;Soluciones Integrales Millenium Ltda;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Calle 77A # 70A - 30 - Barrio Bonanza;Licitada
+;900278186-1;2924;Strenuus Marketing S.A.S;Insignares Jaime Marta Ligia;;Bogota;Bogota;Insignares Jaime Marta Ligia;Carrera 7 N° 155c - 30 - Edificio North Point - Torre E - Oficina 3003;Licitada
+;900033371-4;2916;Sumimedical S.A.S;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 80c # 32E - 65;Licitada
+;806009848-3;1843;Suministradora de Medicamentos del Caribe S.A.;Vasquez Robledo Silvia Esperanza;;Cartagena;Cartagena;Vasquez Robledo Silvia Esperanza;Carrera 21 # 29B - 70 - Barrio Pie Popa Callejon Lequerica;Licitada
+;900346567-4;2511;Suministros Integrales de Equipos Biomedicos,Medicamentos e Insumos Hospitalario;Vasquez Robledo Silvia Esperanza;;Monteria;Monteria;Vasquez Robledo Silvia Esperanza;Kilometro 3 Vía Planeta Rica - Lote 6 MZ A - Centro Logístico e Industrial San Jerónimo;Normal  
+;900346567-4;2511-INS;Suministros Integrales de Equipos Biomedicos,Medicamentos e Insumos Hospitalario;Vasquez Robledo Silvia Esperanza;;Monteria;Monteria;Vasquez Robledo Silvia Esperanza;Kilómetro 3 Variante a Planeta Rica MZ A LT 6 CC Logístico e Industrial San Gerónimo;Licitada
+;802000608-7;2117;Suministros y Dotaciones Colombia S.A.;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Carrera 43 # 80 - 59;Licitada
+;900581154-2;2852;Summedsan Distribuciones S.A.S;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 30 # 30 - 28 - Barrio La Aurora;Licitada
+;890107487-3;1449;Supert.y Drog. Olimpica S.A.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Calle 18 # 13 - 360;Normal  
+;890107487-3;1449-INS;Supert.y Drog. Olimpica S.A.;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Calle 18 # 13 - 360;Licitada
+;890107487-3;1450;Supert.y Drog. Olimpica S.A.;Trullo Valencia Diana Ximena;;Cali;Cali;Trullo Valencia Diana Ximena;Carrera 37 # 10 - 303 Parque Industrial La Esperanza;Normal  
+;890107487-3;1450-INS;Supert.y Drog. Olimpica S.A.;Garcia Guzman Sandra Lorena;;Cali;Cali;Garcia Guzman Sandra Lorena;Carrera 37 # 10 - 303 - Parque Industrial La Esperanza;Licitada
+;890107487-3;1451;Supert.y Drog. Olimpica S.A.;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Carrera 123 #15A-51 Entrada al Recodo Fontibon;Normal  
+;890107487-3;1451-INS;Supert.y Drog. Olimpica S.A.;Rodriguez  Gonzalez Viviana Marcela;;Bogota;Bogota;Rodriguez  Gonzalez Viviana Marcela;Carrera 123 #15A-51 Entrada al Recodo Fontibon;Licitada
+;29874893-6;2544;Tamayo Borja Johvana;Restrepo Restrepo Libia Maria;;Tulua;Tulua;Restrepo Restrepo Libia Maria;"Carrera 37 # 25 - 69 - 
+Barrio Alvernia";Normal  
+;900127312-4;2592;Tecnocam SAS;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Calle 98 #15-24;Normal  
+;900080870-8;2094;Tienda De La Piel Punto Clave S.A.S.;Arroyave Cañas Olga Lucia;;Medellin;Medellin;Arroyave Cañas Olga Lucia;calle 27 46-78 local 177 cc punto clave;Normal  
+;900889224-3;2796;Tienda Dermatologica Dermapiel SAS;Garcia Ladron de Guevara Karime Paola;;Monteria;Monteria;Garcia Ladron de Guevara Karime Paola;Calle 30 # 6 - 60;Normal  
+;900527575-0;2498;Tienda Dermatologica Piel y Faneras S.A.S.;Rodriguez  Castillo Greys Vanessa;;Barranquilla;Barranquilla;Rodriguez  Castillo Greys Vanessa;Calle 79 # 49C - 38 - Bloque 1 - Piso 2 -  Apartamento 10;Normal  
+;900563107-1;2797;TLC Medical S.A.S;Insignares Jaime Marta Ligia;;Barranquilla;Barranquilla;Insignares Jaime Marta Ligia;Carrera 53 # 74 -117 - local 3;Licitada
+;37279471-9;2901;Torres Contreras Johanna Sirlene;Mora Garcia Laura Constanza;;Cucuta;Cucuta;Mora Garcia Laura Constanza;Calle 11 #  0 - 24 - Barrio Centro - Local 109;Normal  
+;15428623-1;2840;Trujillo Botero Cesar Augusto;Ruiz Herrera Juan Esteban;;Rionegro;Rionegro;Ruiz Herrera Juan Esteban;Carerra 51 # 49A - 55;Normal  
+;900907119-6;2717;Tuderma S.A.S.;Restrepo Restrepo Libia Maria;;Cali;Cali;Restrepo Restrepo Libia Maria;Calle 5B  # 3 38 - 44;Normal  
+;819003210-5;2843;Unidad de Atencion de Pacientes en Estado de Critico S.A.S;Vasquez Robledo Silvia Esperanza;;Santa Marta;Santa Marta;Vasquez Robledo Silvia Esperanza;Carrera 19 - Calle 22;Licitada
+;900373690-7;2918;Unidad de Hemato y Oncología Santander S.A.S;Morales Ospina Diana Carolina;;Bucaramanga;Bucaramanga;Morales Ospina Diana Carolina;Carrera 36 # 48 - 98 - Barrio Cabecera;Licitada
+;900112351-6;2669;Unidad Hematologica Especializada IPS SAS;Morales Ospina Diana Carolina;;Cucuta;Cucuta;Morales Ospina Diana Carolina;Calle 9 # 6E - 21- Barrio La Riviera;Licitada
+;900095504-2;2782;Unidad Hemato-oncologica y de Radioterapia del Caribe SAS;Insignares Jaime Marta Ligia;;Santa Marta;Santa Marta;Insignares Jaime Marta Ligia;Carrera 15 # 24 - 37 - Barrio Alcazares;Licitada
+;900353107-9;2390;Unidad Medica Oncologica S.A.S.;Morales Ospina Diana Carolina;;Bogota;Bogota;Morales Ospina Diana Carolina;Autopista Norte # 106 - 30 - Casa 610;Licitada
+;900335780-1;2442;Unidad Oncologica Surcolombiana S.A.S.;Castro Aragon Edith Yuliana;;Neiva;Neiva;Castro Aragon Edith Yuliana;Calle 9 # 13 - 24;Licitada
+;890208788-9;1458;Unidrogas S.A.;Mora Garcia Laura Constanza;;Bucaramanga;Bucaramanga;Mora Garcia Laura Constanza;Kilometro 4 - Anillo Vía Manzana F - Bodega 4 y 6 - Zona Franca Santander;Normal  
+;890208788-9;1458-INS;Unidrogas S.A.;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Kilometro 4 - Anillo Vial Manzana F - Bodega 4 y 6 Zona Franca Santander;Licitada
+;890208788-9;2063;Unidrogas S.A.;Viaña Catalan Luz Helena;;Barranquilla;Barranquilla;Viaña Catalan Luz Helena;Zona Franca Sofía - Lote 13 - Manzana 4 - Vía a Galapa;Normal  
+;890208788-9;2063-INS;Unidrogas S.A.;Vasquez Robledo Silvia Esperanza;;Barranquilla;Barranquilla;Vasquez Robledo Silvia Esperanza;Zona Franca Sofía - Lote 13 - Manzana 4 - Vía a Galapa;Licitada
+;890208788-9;2576;Unidrogas S.A.;Viaña Catalan Luz Helena;;Santa Marta;Santa Marta;Viaña Catalan Luz Helena;Calle 22 # 5 - 41;Normal  
+;890208788-9;2576-INS;Unidrogas S.A.;Vasquez Robledo Silvia Esperanza;;Santa Marta;Santa Marta;Vasquez Robledo Silvia Esperanza;Calle 22 # 51 - 41;Licitada
+;890208788-9;2615;Unidrogas S.A.;Garcia Melgarejo Wilson;;Bogota;Bogota;Garcia Melgarejo Wilson;Calle 18 # 68D - 72 - Zona Industrial Montevideo;Normal  
+;890208788-9;2711;Unidrogas S.A.;Ruiz Herrera Juan Esteban;;Medellin;Medellin;Ruiz Herrera Juan Esteban;Carrera 43F # 19A - 4 - Barrio Colombia;Normal  
+;890208788-9;2711-INS;Unidrogas S.A.;Torres Tobon Beatriz Elena;;Medellin;Medellin;Torres Tobon Beatriz Elena;Carrera 43F#19A-40-Barrio Colombia;Licitada
+;19493134-2;2518;Unigarro Ortiz Juan Pablo;Giandomenico de Vries Juan Carlos;;Pasto;Pasto;Giandomenico de Vries Juan Carlos;Carrera 25 # 15 - 62 - Clínica Oftalmológica Unigarro - Piso 4;Normal  
+;900033752-7;2538;Univer Plus S.A.;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Carrera 18A # 137 – 57 - Oficina 301.;Normal  
+;891500319-2;1731;Universidad del Cauca Unidad d;Garcia Guzman Sandra Lorena;;Popayan;Popayan;Garcia Guzman Sandra Lorena;Calle 4 # 3 - 57;Licitada
+;890201213-4;2761;Universidad Industrial de Santander;Higuera Delgado Martha;;Bucaramanga;Bucaramanga;Higuera Delgado Martha;Carrera 27 - Calle 9 - UIS;Licitada
+;900467965-1;2896;Vakciny S.A.S;Lizarazo Castillo Javier Mauricio;;Bogota;Bogota;Lizarazo Castillo Javier Mauricio;Carrera 4 #  9 - 81;Normal  
+;24289833-7;1465;Vargas De Vargas Maria Aurora;Gasca Puentes Julio Alberto;;Florencia;Florencia;Gasca Puentes Julio Alberto;Calle 17 # 11 - 46;Normal  
+;65761607-1;2305;Varon Alvis Edna Margarita;Gasca Puentes Julio Alberto;;Ibague;Ibague;Gasca Puentes Julio Alberto;Carrera 2 # 11 - 29 - Centro Comercial Beneficencia - Local 1 al 3;Normal  
+;51937446-9;2287;Vera Diaz Vivian Liliana;Cuellar Tovar Walter Zaid;;Bogota;Bogota;Cuellar Tovar Walter Zaid;Calle 127-A No 7-53. Consultorio # 403.  Edificio INO;Normal  
+;900461725-3;2584;VG y AT Union Temporal;Higuera Delgado Martha;;Floridablanca;Floridablanca;Higuera Delgado Martha;Edificio Centro Medico Carlos Ardila Lulle - Torre A - Piso 3 - MD 7 - Casa 301;Licitada

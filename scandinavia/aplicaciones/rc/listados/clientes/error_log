@@ -1,0 +1,7 @@
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 119
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 120
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 121
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 125
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 127
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 134
+[06-Nov-2019 12:04:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/scandapp/public_html/scandinavia/cabeza.php on line 136
