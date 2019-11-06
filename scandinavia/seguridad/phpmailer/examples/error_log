@@ -1,0 +1,4 @@
+[19-Dec-2018 20:22:03 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home/scandapp/public_html/scandinavia/aplicaciones/prueba/PHPMailer/examples/test_mail_basic.php on line 14
+[19-Dec-2018 20:23:08 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home/scandapp/public_html/scandinavia/aplicaciones/prueba/PHPMailer/examples/test_mail_basic.php on line 14
+[19-Dec-2018 20:24:43 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home/scandapp/public_html/scandinavia/aplicaciones/prueba/PHPMailer/examples/test_mail_basic.php on line 14
+[19-Dec-2018 20:26:25 UTC] PHP Deprecated:  Function eregi_replace() is deprecated in /home/scandapp/public_html/scandinavia/aplicaciones/prueba/PHPMailer/examples/test_sendmail_basic.php on line 16

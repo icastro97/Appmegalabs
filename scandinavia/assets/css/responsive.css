@@ -1,0 +1,24 @@
+div.resp1
+{
+    float:left; 
+    width:10%;
+     margin:20px 5%;
+}
+
+.modelo
+{
+    float: center; 
+    width:60%;
+    padding: 20px;
+    display: table;
+
+    text-align: center;
+
+    font-weight: bold;
+
+    font-size: larger;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    flex-wrap: wrap;
+
+}
